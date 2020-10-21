@@ -1,3 +1,5 @@
+[![Build Status](https://auroramo.visualstudio.com/DevOpsProject/_apis/build/status/auroramo.pipelines-java?branchName=master)](https://auroramo.visualstudio.com/DevOpsProject/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
